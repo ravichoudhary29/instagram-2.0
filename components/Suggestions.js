@@ -40,7 +40,7 @@ function Suggestions() {
             <h3 className="text-xs text-gray-400">Works at {profile.email}</h3>
           </div>
           <button
-            className="text-green-300 border border-sky-200   
+            className="text-green-500 border border-sky-200   
                rounded-br-[30px] rounded-tr-[30px]   p-1 "
           >
             Follow
